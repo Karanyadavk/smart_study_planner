@@ -1,0 +1,32 @@
+{
+  "subjects": [
+    "Operating system",
+    "Networking"
+  ],
+  "tasks": [
+    {
+      "task_id": 1,
+      "subject": "Networking",
+      "title": "Networking layer",
+      "priority": "Medium",
+      "due_date": "2026-09-30",
+      "completed": true
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": 1,
+      "subject": "Operating system",
+      "minutes": 30,
+      "notes": "tuff",
+      "session_date": "2026-09-28"
+    },
+    {
+      "session_id": 2,
+      "subject": "Networking",
+      "minutes": 30,
+      "notes": "easy",
+      "session_date": "2026-09-28"
+    }
+  ]
+}
